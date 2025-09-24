@@ -1,0 +1,12 @@
+As a user, I want to easily browse available challenges, so that I can find ones that interest me
+As a user, I want to join a challenge, so that I can participate alongside other users
+As a user, I want to see my history of progress, so that I can track how I’ve improved over time
+As a user, I want to see the leaderboard for a challenge, so that I can compare my performance with others
+As a user, I want to earn badges or rewards, so that I feel motivated to continue participating
+
+As a challenge creator, I want to create a new challenge, so that other users can join it
+As a challenge creator, I want to define challenge details, so that participants know what to do
+As a challenge creator, I want to edit or delete my challenge, so that I can correct mistakes
+
+As an admin, I want to approve or remove challenges, so that the platform remains safe
+As an admin, I want to assign or revoke roles, so that I can control platform permissions
